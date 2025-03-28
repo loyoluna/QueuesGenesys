@@ -1,0 +1,366 @@
+ID_Cola,Nombre_Cola,División,ID_Script,Nombre_Script
+3205f9ca-a3b8-40da-bea7-7408b31ef6cb, 800_MARCHA_BLANCA_BLASTER,HOGAR,N/A,N/A
+94ce9d1a-4a5a-4f98-9ef9-82c2f247794c, Captacion_Tuxtepec,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+fdac162b-d789-4ee9-94eb-2f31611bcb13, Test_Campaign_Tradicional,TRADICIONAL,N/A,N/A
+d88fe5fc-4c2e-47d7-ada9-33eacf6ca632,0_Capacitacion_Hogar,HOGAR,N/A,N/A
+cae682f9-8a31-41ab-8969-eb837670e5e3,0_Capacitacion_Tradicional,TRADICIONAL,N/A,N/A
+1d8daf8e-2dc4-406b-acf7-1468ec52af88,0_ENCUESTA_1_OCCIDENTE,Manuales,N/A,N/A
+31762c8f-cd2c-46f2-bb8b-e3ec199de626,0_ENCUESTA_2_CENTRO,Manuales,N/A,N/A
+2072d5cd-ecd2-400a-9078-4d1d71db0f18,0_ENCUESTA_3_METRO,Manuales,N/A,N/A
+7f3d9790-3354-4cfd-9eb0-6896ad884e92,0_ENCUESTA_4_NORTE,Manuales,N/A,N/A
+e40a52ff-3a32-450d-af60-f1e7a3d4e8ce,0_ENCUESTA_5_PACIFICO,Manuales,N/A,N/A
+ed36da2f-542d-46c6-9b94-cc312b35d471,0_ENCUESTA_6_SUR,Manuales,N/A,N/A
+be9d053c-d6ee-47d7-bb5f-534a25112909,0_ENCUESTA_RETENCION,HOGAR,N/A,N/A
+bb7e6e04-0240-4c33-bec7-fcae65d09065,0_INVITACION_WHATSAPP,HOGAR,N/A,N/A
+875b3992-5449-47d7-b93d-5dc5c0b9a5b5,0_MARCHA_BLANCA,HOGAR,N/A,N/A
+5eafaef0-d253-4856-a949-bf3f5731b4d3,0_PROYECTOS_ESPECIALES,HOGAR,N/A,N/A
+daa81c31-4a84-4790-8ad0-6846af19cdcb,0_RECUPERACION_GARRY,HOGAR,N/A,N/A
+0a63e010-c542-495c-84de-468329356927,0_SEGUIMIENTO_ESPECIAL,Manuales,N/A,N/A
+cb3dad53-e08b-4bb8-94bb-1e0602399d15,101_MIXTA_1,TRADICIONAL,N/A,N/A
+42884c7a-56dd-4dd2-b19c-2eae50965de0,102_MIXTA_2,TRADICIONAL,N/A,N/A
+776fe344-22d3-4599-b1a1-640dad1b63f4,102_MIXTA_2_NORTE,TRADICIONAL,N/A,N/A
+4e1535f6-e848-4eab-94fc-a39bb6ebe43d,103_MIXTA_3,TRADICIONAL,N/A,N/A
+256df446-e8a3-41f2-a9d4-7e5e3afd016f,104_MIXTA_4,TRADICIONAL,N/A,N/A
+63790244-e6c9-4bf7-ad47-3d759c04f95a,105_MIXTA_5,TRADICIONAL,N/A,N/A
+b5780340-6bc1-4c60-8098-a58dd5d40e36,106_MIXTA_6,TRADICIONAL,N/A,N/A
+8f87cd88-032b-4f47-bce5-97ecc9b79271,106_MIXTA_6_PACIFICO,TRADICIONAL,N/A,N/A
+07aaf350-caea-48d9-a4ce-55c77bf16be2,107_MIXTA_7_CENTRO,TRADICIONAL,N/A,N/A
+b6831045-ffa0-43c7-9729-9f12ad04a86d,107_MIXTA_7_SUR,TRADICIONAL,N/A,N/A
+e453ed14-acc2-4caf-816a-f670e75bba73,110_DESARROLLO,TRADICIONAL,N/A,N/A
+252005c6-c5a5-4430-a7b0-85b95b604cf4,110_DESARROLLO_3_PS,TRADICIONAL,N/A,N/A
+3ea11497-ec76-43c1-bbeb-98c7b08a076e,111_OP_1,TRADICIONAL,N/A,N/A
+e6a750a3-3b4a-4cf3-b65d-42ab9e220625,111_OP_3,TRADICIONAL,N/A,N/A
+cac7796f-83b5-4345-bb69-322f96f9dc71,112_DISTRIBUIDORES,TRADICIONAL,N/A,N/A
+aab66890-6a8f-412a-8624-8ec133a4a3ec,201_DESARROLLO_FOCO,TRADICIONAL,N/A,N/A
+dc9e71c6-10af-4c2b-b6b1-68f9b808b0b5,201_NORTE_FOCO,TRADICIONAL,N/A,N/A
+c6fc2fff-24ab-40ab-b179-6beca8d86ba3,201_OP_FOCO,TRADICIONAL,N/A,N/A
+ff367f25-0b7e-4bc6-b277-11430389d538,201_TRADICIONAL_FOCO,TRADICIONAL,N/A,N/A
+898785b3-476c-46db-b9cb-6a4648e86b5b,304_PUEBLA_PLANTA_1,HOGAR,N/A,N/A
+e7bf3d2a-c7ae-4349-92ea-358105cc544a,304_PUEBLA_PLANTA_2,HOGAR,N/A,N/A
+23e92a20-d606-4cb3-a0ce-416d3dfe96e2,304_PUEBLA_PLANTA_ACT,HOGAR,N/A,N/A
+bf985bca-8763-47db-9f61-6fb4acf91808,304_PUEBLA_PONIENTE_1,HOGAR,N/A,N/A
+d8d0ce3f-e2ff-412f-8f72-27fee01bb1cb,304_PUEBLA_SUR_1,HOGAR,N/A,N/A
+d61aa0f1-ebf3-4a77-b1b3-7c9b3b5fe6eb,304_PUEBLA_SUR_2,HOGAR,N/A,N/A
+33dd7374-726f-4e3a-b777-f8f3ed60e799,315_SAN_LUIS_1,HOGAR,N/A,N/A
+593b9b99-4a3c-41e7-86d8-382111b0e109,315_SAN_LUIS_2,HOGAR,N/A,N/A
+53101fbf-b393-4ea5-abd3-b5218fc8c0c4,322_CUERNAVACA_1,HOGAR,N/A,N/A
+8446124a-ed35-4ae1-ab79-0a58ba3efd00,325_SALTILLO_1,HOGAR,N/A,N/A
+eedf8168-ae7d-4a32-b755-a4b0c69d1347,325_SALTILLO_2,HOGAR,N/A,N/A
+18831c9b-323b-44ad-a2bd-eff4a344f673,326_XALAPA_1,HOGAR,N/A,N/A
+023fa5db-d1b0-46ba-9694-4b9394b39549,327_TEHUACAN_1,HOGAR,N/A,N/A
+bd47fda4-9f96-4531-9cff-60e801248411,328_GOMEZ_PALACIOS_1,HOGAR,N/A,N/A
+a7eef13a-c27f-4fc7-8ba3-b6a43c35a74f,330_CUAUTLA_1,HOGAR,N/A,N/A
+f81aa092-2f50-482b-bddb-04a62033e13a,331_TAMPICO_1,HOGAR,N/A,N/A
+ff5eed11-50e8-4010-b1fd-3819c16d2fdc,332_CORDOBA_1,HOGAR,N/A,N/A
+bf714651-ed2c-44b2-b874-8c2cb4ec5f1a,337_ORIZABA_1,HOGAR,N/A,N/A
+0947525d-891c-42d7-9347-a16a0d2dcc9d,341_CEDIGA_1,HOGAR,N/A,N/A
+23a8e292-6c55-4343-b34a-35a6738ab034,342_CEDIGA_2,HOGAR,N/A,N/A
+cb348b84-9c02-424c-8105-60d11c148690,342_CEDINO_1,HOGAR,N/A,N/A
+3afcef5d-7c9e-42a2-bbe7-f914235a682b,342_CEDINO_2,HOGAR,N/A,N/A
+1f634276-918c-449a-bd95-765928ba8900,343_TUXTLA_1,HOGAR,N/A,N/A
+daee8a2d-fa05-4e92-a957-2f9c52c5e402,343_TUXTLA_2,HOGAR,N/A,N/A
+7cdae6f4-628c-4487-b051-c2af662066f2,344_VERACRUZ_1,HOGAR,N/A,N/A
+1582e59c-4e8d-4e38-bea6-ca5d869e9923,344_VERACRUZ_2,HOGAR,N/A,N/A
+ca3a5f22-958c-4969-8d95-a01cfcfef30b,345_MINATITLAN,HOGAR,N/A,N/A
+6e2301af-efd2-4832-8ce8-723a07d1fca6,345_MINATITLAN_2,HOGAR,N/A,N/A
+67c3443d-ae49-4f17-b5e4-a8b419e28e2d,346_VILLAHERMOSA,HOGAR,N/A,N/A
+6bb0e183-be69-47d5-9db9-9e47ad55d0e0,351_COATZACOALCOS,HOGAR,N/A,N/A
+d468c86f-7184-48b3-97bd-550ec21be2ba,352_CAMPECHE,HOGAR,N/A,N/A
+c93ab3f2-7d1a-409d-aa3d-37cbf0748134,353_CEDIPO,HOGAR,N/A,N/A
+457d2904-a33d-4fff-b6cd-45947f82a442,357_TLAXCALA,HOGAR,N/A,N/A
+3f9f1947-dfa3-41d9-9b30-9c9e2a2a63c5,358_TUXTEPEC,HOGAR,N/A,N/A
+8aac2303-dde0-4832-a469-c333f7a209fa,363_TIERRA_BLANCA,HOGAR,N/A,N/A
+0d48bcc4-3f22-4e0f-937e-0edb99d62b4f,368_PLAYA_DEL_CARMEN,HOGAR,N/A,N/A
+9c9ae7b1-7b4e-47e3-bf93-b19053979703,373_CANCUN,HOGAR,N/A,N/A
+cd529b4b-a0e4-44f7-b165-ac61876b5027,373_CANCUN_2,HOGAR,N/A,N/A
+74462e04-86df-485b-b396-49b2e57e8ea6,374_MERIDA,HOGAR,N/A,N/A
+0a0ebe88-22a3-4ceb-9fd5-0638dd801f11,374_MERIDA_2,HOGAR,N/A,N/A
+33487636-0114-406f-9827-cdbd21fe2a3d,374_MERIDA_3,HOGAR,N/A,N/A
+dd64a662-92f3-4b0f-886d-39271c12dc9e,403_PUEBLA_1_BC,HOGAR,N/A,N/A
+7571a196-6680-4dc4-acdf-6b997eb97cc0,405_NORTE_1_BC,HOGAR,N/A,N/A
+52b6d77e-dbef-4c26-be3b-16b40b1681fe,405_NORTE_2_BC,HOGAR,N/A,N/A
+6f3cea05-90dc-4f35-89ac-8581bf779ea5,406_CENTRO_1_BC,HOGAR,N/A,N/A
+297c846f-a75c-47fa-a23b-a9865eab048f,413_SUR_1_BC,HOGAR,N/A,N/A
+35c339b4-a927-47b1-a2b0-beb2c2c61f6f,501_CENTRO_FOCO_1,HOGAR,N/A,N/A
+ec77e0f2-c0d5-46c3-b91b-1db5ece33f31,502_NORTE_FOCO_1,HOGAR,N/A,N/A
+20c2842c-bfac-49c3-acce-feb3f3fb1471,600_WhatsApp_Centro_H,WHATSAPP,N/A,N/A
+c22e135d-f3cc-443e-a233-9a608f3b71d9,600_WSP_CENTRO_1,WHATSAPP,N/A,N/A
+a0549da6-03bd-47b9-8473-3da8b25d58df,600_WSP_CENTRO_2,WHATSAPP,N/A,N/A
+172f67d1-7491-412f-a871-fa12a20faeb7,600_WSP_CENTRO_3,WHATSAPP,N/A,N/A
+21c5076a-61cf-4596-bd93-2486c222f90b,601_WhatsApp_Metro_H,WHATSAPP,N/A,N/A
+bc2f2b22-e96a-4180-bbb8-f6f8194449ae,601_WSP_METRO_1,WHATSAPP,N/A,N/A
+40ddc42e-ce98-4e48-82ad-95680fc289a9,601_WSP_METRO_2,WHATSAPP,N/A,N/A
+37563f06-a357-49ee-8706-91f4a421cf49,601_WSP_METRO_3,WHATSAPP,N/A,N/A
+eb8c1b8c-3b94-4926-88f0-8219765a72b8,602_WhatsApp_Norte_H,WHATSAPP,N/A,N/A
+d70b2229-e7e3-4b74-b0ee-67ce2d4a090e,602_WSP_NORTE_1,WHATSAPP,N/A,N/A
+5227ead2-9a52-4ba4-bf66-27fd866ffb80,603_WhatsApp_Occidente_H,WHATSAPP,N/A,N/A
+563ec10c-71ce-4b6c-8d19-8e47e4ee4344,603_WSP_OCCIDENTE_1,WHATSAPP,N/A,N/A
+6a64f063-00e1-457b-97cb-3d90dd069191,603_WSP_OCCIDENTE_2,WHATSAPP,N/A,N/A
+76af1fa9-18f8-4a60-93ac-ca4747694ecd,603_WSP_OCCIDENTE_3,WHATSAPP,N/A,N/A
+f7158162-0210-405c-a2ba-ff2db6ac004a,603_WSP_OCCIDENTE_4,WHATSAPP,N/A,N/A
+a06c8231-d203-49e2-9b42-57c5297ccd0e,603_WSP_OCCIDENTE_5,WHATSAPP,N/A,N/A
+1e303873-ae2c-4dce-ad8c-b44e4d04d7d1,606_WhatsApp_Hogar_H,WHATSAPP,N/A,N/A
+59ace191-bdca-4a41-b6d8-6072d5cef610,607_WhatsApp_Phoenix_H,WHATSAPP,N/A,N/A
+16155b96-2a0d-494c-bf68-eefab0e6940f,608_WSP_BAJIO_1,WHATSAPP,N/A,N/A
+74039420-a87b-4e9f-b2ee-274e81dec558,701_CENTRO_IVR,HOGAR,N/A,N/A
+8ee607f5-e9c2-4914-a56c-c69b2c8e88d6,705_60_Y_90_NACIONAL,HOGAR,N/A,N/A
+2633c335-1b8d-4765-ad98-da113317c180,705_60_Y_90_TRADICIONAL,TRADICIONAL,N/A,N/A
+b77aacbe-9690-4348-90c6-ca735226a9ac,Apoyo a Rutas,Inbound,N/A,N/A
+2a63d046-c2c9-4c94-901a-e4b9a9833fd4,Apoyo a rutas_ CD_Hidalgo,Inbound,N/A,N/A
+ec794029-41d1-40e4-9bd5-580905fde192,Apoyo a Rutas_Acambaro,Inbound,N/A,N/A
+06391d8a-673f-4837-af7d-424bebe8edf1,Apoyo a Rutas_Aguascalientes,Inbound,N/A,N/A
+b4eadfa9-c7d8-4716-bae7-9376c8963c04,Apoyo a Rutas_Atlacomulco,Inbound,N/A,N/A
+3658c190-3520-41a6-bf81-ebc83b304e97,Apoyo a Rutas_Celaya,Inbound,N/A,N/A
+f4e21106-4396-4ea9-a470-71bd9a15cf8a,Apoyo a Rutas_Chapala,Inbound,N/A,N/A
+ae4aaa7e-f309-47c8-954d-84fdcc4ab94c,Apoyo a Rutas_Coatzacoalcos,Inbound,N/A,N/A
+e0d7d4fc-82eb-4534-96ca-c76426ca1244,Apoyo a Rutas_Colima,Inbound,N/A,N/A
+94fe0415-dad0-4f27-b2af-19b6eb27a082,Apoyo a Rutas_Córdoba,Inbound,N/A,N/A
+789ce1f9-f096-41ce-97e4-2e8109899e3e,Apoyo a Rutas_Dolores,Inbound,N/A,N/A
+1cf67792-052d-4df4-95d4-ab1feed7d7e9,Apoyo a Rutas_Guadalajara,Inbound,N/A,N/A
+11c35c2a-d9c3-46e3-863d-e2313a20daec,Apoyo a Rutas_Guanajuato,Inbound,N/A,N/A
+11b9dde2-c4e0-459a-a973-89ddbdc23b9f,Apoyo a Rutas_Gómez Palacio,Inbound,N/A,N/A
+7b4120d1-8294-49ab-8cea-38aceba18add,Apoyo a Rutas_Hermosillo,Inbound,N/A,N/A
+41e84ba3-990e-4790-9cda-7fa939e35855,Apoyo a Rutas_Irapuato,Inbound,N/A,N/A
+59c0408b-317c-40d4-a560-3c74ce6fb852,Apoyo a Rutas_La Piedad,HOGAR,N/A,N/A
+c094ef95-457e-46a4-b574-8da0ce83e7d9,Apoyo a Rutas_Lagos de Moreno,HOGAR,N/A,N/A
+985718e4-329f-4702-b461-c83084bf4e6b,Apoyo a Rutas_Leon,HOGAR,N/A,N/A
+65c8b5c0-9095-44a3-a560-3bc852e836b9,Apoyo a rutas_Lázaro Cárdenas,Inbound,N/A,N/A
+3ecd3ba4-24e6-4be4-b1e1-01fb2b2ef69e,Apoyo a rutas_Manzanillo,Inbound,N/A,N/A
+828cd2d5-2f5d-47e7-826e-288470f4c00d,Apoyo a Rutas_Metro,Inbound,N/A,N/A
+43c0dc54-1a80-4ce1-834b-47a61b935bb2,Apoyo a Rutas_Minatitlán,Inbound,N/A,N/A
+ebcdcc71-239e-43c0-a3de-4e1a8b989852,Apoyo a Rutas_Monterrey,Inbound,N/A,N/A
+4fc67e28-d269-42f5-b6da-475b86e99e95,Apoyo a Rutas_Morelia,Inbound,N/A,N/A
+3039a9a9-c85c-457d-ad63-975efebcda4f,Apoyo a Rutas_Morelos,Inbound,N/A,N/A
+eadb3709-4073-4018-bdf3-16afeac967b3,Apoyo a Rutas_Mérida,Inbound,N/A,N/A
+9dd8436f-3bf4-476b-8ede-3fb83bc80d5f,Apoyo a Rutas_Ocotlán,Inbound,N/A,N/A
+ab75bc3b-aff5-412e-b1f4-49a334a12d28,Apoyo a Rutas_Orizaba Planta,HOGAR,N/A,N/A
+e76ee4d3-8600-4405-90fb-ef3a0302f007,Apoyo a Rutas_Pachuca,Inbound,N/A,N/A
+f7072151-ecb1-4fb4-a477-2a5eb6c697a5,Apoyo a Rutas_Puebla,Inbound,N/A,N/A
+f82603ab-4302-4d60-892c-ab58c35284b7,Apoyo a Rutas_Puerto Vallarta,Inbound,N/A,N/A
+617cce42-be80-4487-bd99-a6a5993afc97,Apoyo a Rutas_Querétaro,Inbound,N/A,N/A
+6754cbeb-add4-42b6-bd37-566581ff5726,Apoyo a Rutas_Saltillo,Inbound,N/A,N/A
+13ebc578-dddc-4c41-88ff-72c97688d8cb,Apoyo a Rutas_San Luis,Inbound,N/A,N/A
+cb3a3c23-45c1-4050-8772-c14405b21187,Apoyo a Rutas_San Miguel de A.,HOGAR,N/A,N/A
+61e5a7a8-ce16-4946-9ce7-bc1290dc25cc,Apoyo a Rutas_Tampico,Inbound,N/A,N/A
+af43c8bc-9676-4748-a591-6657d1c4a8fd,Apoyo a Rutas_Tehuacán,Inbound,N/A,N/A
+62ae50e8-fa43-4e52-9e63-cf77a3df6a16,Apoyo a Rutas_Tepic,Inbound,N/A,N/A
+8efacbe9-a899-41f8-a5fa-26bd16a035b6,Apoyo a Rutas_Tlaxcala,HOGAR,N/A,N/A
+66df00db-a14a-4ca8-b1fe-2b6e2dd68133,Apoyo a Rutas_Toluca,Inbound,N/A,N/A
+62698347-cfa5-43f1-96bd-ffcb6434729d,Apoyo a Rutas_Tuxtepec,HOGAR,N/A,N/A
+535450de-cca8-47e7-94d7-8367e3912f13,Apoyo a Rutas_Tuxtla,Inbound,N/A,N/A
+6c49ceee-3f97-4944-9591-d7ddb8b8264c,Apoyo a Rutas_Uruapan,Inbound,N/A,N/A
+78d3fd0a-64ee-489b-be6e-de965c34a5cf,Apoyo a Rutas_Veracruz,Inbound,N/A,N/A
+d8813c92-15b4-49ea-8732-6d4dfbe075ca,Apoyo a Rutas_Villahermosa,HOGAR,N/A,N/A
+3b921696-d38c-4d08-9f54-1e3fe3512c29,Apoyo a Rutas_Xalapa,Inbound,N/A,N/A
+381dfdcf-d126-4c0e-b851-cc7c2ab9e104,Apoyo a Rutas_Zamora Planta,HOGAR,N/A,N/A
+017c907a-31d1-415b-a103-7c5205481964,Apoyo a rutas_Zitácuaro,Inbound,N/A,N/A
+cab2b92e-46d1-46ea-9051-e581726aa4b1,Apoyo Vial,Inbound,N/A,N/A
+bc1bfd3b-9bbb-4603-bb86-8ae08769301f,Apoyo Vial Urgencia,Inbound,N/A,N/A
+566be7c6-87c5-46fc-ba67-e93271b751c9,CALIDAD,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+9ea67b69-c24e-4dc7-859a-580ea3931203,Capacitacion,Capacitación,7b9ad699-ff2d-4ebd-956b-879008b8cdf6,Get_CRM_2doIntentCRM
+c3d97b16-88c8-429d-afd8-8c9fc9849f8d,Capacitacion WhatsApp,WHATSAPP,N/A,N/A
+97a90481-06a8-4e6f-ad10-796f92b7ec3a,Capacitacion_Agente,Capacitación,N/A,N/A
+0b05bd68-3358-424d-b12d-2442b6fa725f,Captacion_Acambaro,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+0c9396d8-29ff-46c3-ba79-3ea2788bc9b2,Captacion_Aguascalientes,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+2e6d9fb7-93f2-47fe-a7ef-258ae37485c9,Captacion_Atlacomulco,HOGAR,N/A,N/A
+9ffdf27a-3435-43a9-b6a2-0327c7281505,Captacion_Campeche,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+09bea18d-4c3f-40ce-abbe-fa9a2585c4f9,Captacion_Cancun,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+c8472d4a-9fea-4a7d-83ac-6fd3b7a56907,Captacion_CD_Hidalgo,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+7d3e42ec-87f1-4f4b-94bc-1d0c9aeafe69,Captacion_Celaya,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+ef5ccdb4-b111-4b65-8dc9-75f6f97717a6,Captacion_Chapala,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+d4e83fc0-9a5c-4683-9884-cac851985412,Captacion_Coatzacoalcos,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+74760257-eaa8-41d5-8d17-dab4bbb4d0fd,Captacion_Cocula,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+b2846ac5-b569-4b4a-abbc-960a9b822e92,Captacion_Colima,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+2ae5530f-69bb-4d23-97ca-96f8490c9967,Captacion_Cordoba,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+0409e964-a1c4-4d71-9ce1-1ca2111e4db7,Captacion_Dolores ,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+393c0b04-234d-4fd9-bad4-4650edb02c6e,Captacion_Gomez Palacio,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+ecd028ab-e106-44fc-a0a2-350f71281f44,Captacion_Guadalajara,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+43030b59-1a10-443b-ad71-7f9b00785e92,Captacion_Guanajuato,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+bd738a4e-363b-44b4-9a70-c7ba7bca1134,Captacion_Hermosillo,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+48d2e7fa-723b-4912-b61c-3c8994484000,Captacion_Irapuato,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+038f599e-7e8e-4b30-a3a2-e3b0db02e2ec,Captacion_Jalostotitlan,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+2cf2061f-2998-4653-a77e-f9143076ba9e,Captacion_La Piedad,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+d6e931b0-70e7-42d8-a786-da9ec723468f,Captacion_Lagos de Moreno,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+d05c2855-f819-40f1-8e62-7689a91a726c,Captacion_Lazaro Cardenas,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+3d15524f-891e-4069-9a49-20954a4c046a,Captacion_Leon,HOGAR,N/A,N/A
+6f0cd015-1f60-4344-99a0-bc157940ab74,Captacion_Manzanillo,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+912cb7cd-15d0-4ca4-a977-275a7957ac73,Captacion_Merida,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+e8f351ed-2fce-4717-9dc4-5a6d6eca88be,Captacion_Metro,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+1505a0ca-421e-4696-8e16-3c07e6f6db7d,Captacion_Minatitlan,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+7aea454f-0cb6-4822-8e23-afafaafcbbd0,Captacion_Monterrey,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+49dcef45-7830-4b72-a47b-f2c8e457e6ca,Captacion_Morelia,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+4afb0083-fd2f-4df4-b8d5-9a075b6e9427,Captacion_Morelos,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+802c134a-d263-4409-978a-d452062a26d1,Captacion_Ocotlan,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+cd0dbcfb-aac2-4136-8dc8-cf9c468e7294,Captacion_Orizaba Planta,HOGAR,N/A,N/A
+a55c6900-98ee-40f0-b684-0e529e46010a,Captacion_Pachuca,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+e53b8253-884e-4808-8c2c-c47c3064c018,Captacion_PLAYA_DEL_CARMEN,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+bca310e0-05bf-40f9-9079-5896ce6ffd19,Captacion_Puebla,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+4c3c8c2e-6e5f-4a3f-af2d-c8f9910f1b0e,Captacion_Puerto Vallarta,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+b3c2e9e4-0b02-4c27-a0b1-36a9b4b39f4e,Captacion_Queretaro,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+01837b11-8587-4974-9739-a2f47c03bfff,Captacion_Sahuayo,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+3e4531a9-0dad-4c25-9886-35d4e1ae174d,Captacion_Saltillo,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+51ddcf00-a559-47cf-93c4-5cab31238212,Captacion_Salvatierra,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+fd658e1c-7d4b-4634-a64c-a81c44a1dfcf,Captacion_San Luis,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+c9f87801-ef67-43a4-adab-f42bfb28b158,Captacion_San Miguel de A.,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+7ab1ae12-20e5-4403-998b-76d1e53c1e2d,Captacion_Tampico,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+527241da-26e1-4478-bb80-c04d435c2a85,Captacion_Tehuacan,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+f98f4579-a27a-4f6f-9a46-074828cffd91,Captacion_Tepatitlan,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+f6b844f7-fb79-4bfc-abee-84a85c0de079,Captacion_Tepic,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+81b84ab4-848f-420f-b0ae-7b5e6a6a6305,Captacion_Tlaxcala ,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+b30a3f98-f5e1-42c9-984b-66d6b7e6e06b,Captacion_Toluca,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+5864d940-bc8a-4735-97ec-3abe877490d2,Captacion_Tuxtla,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+d3550d24-02d5-43e4-beb3-a168f60c7ad0,Captacion_Uruapan,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+183aec26-06ab-4610-88ef-63a91a2c68bd,Captacion_Valle de Santiago,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+b5fc998c-097c-46d8-84a2-f930384ab0e0,Captacion_Veracruz,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+61826760-4910-4461-b8fe-15e96c93ccf3,Captacion_Villahermosa,HOGAR,N/A,N/A
+cefdaa28-023c-4cf6-8448-547c77c18f9b,Captacion_Xalapa,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+e3246c9e-f052-411e-9adc-ad50b26f68c3,Captacion_Zamora Planta,HOGAR,N/A,N/A
+faaf4cb3-400f-48f6-b57d-7989aabccace,Captacion_Zitacuaro,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+247ff725-d46d-4de8-89b8-52b36a7913fc,CAS,Inbound,cdb23379-ba47-47be-889c-97e3de1e2d64,Inbound_CAS
+52697ff6-27fa-4d9d-88ea-395d367b7732,CAS RECUPERACION (Engagement),Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+59aa37d5-883f-4be3-b5eb-d74dc912614e,CAS Validacion,Inbound,cdb23379-ba47-47be-889c-97e3de1e2d64,Inbound_CAS
+cb44dedd-0e4a-47ad-87c6-0324a951b2e0,CASR_ CD_Hidalgo,Inbound,N/A,N/A
+8aa7508d-073d-4dd0-a4df-d1827e265423,CASR_Acambaro,HOGAR,N/A,N/A
+0dc2a526-60f6-4f3b-ba07-a74c2f181a9e,CASR_Aguascalientes,Inbound,N/A,N/A
+c1e58fdb-846b-4041-93aa-6ebbb28909e2,CASR_Atlacomulco,HOGAR,N/A,N/A
+ebef643f-dd09-495d-be44-29cd380948a4,CASR_Celaya,Inbound,N/A,N/A
+744c42dd-2958-4400-80f9-7be65cbfa9ea,CASR_Chapala,HOGAR,N/A,N/A
+4a8eaf08-0820-47bb-b55f-5232556da5c3,CASR_Coatzacoalcos,Inbound,N/A,N/A
+65b4d589-d907-442c-a2ae-54cfc93b8889,CASR_Colima,Inbound,N/A,N/A
+58c7e407-6776-472e-b64a-dc8130686881,CASR_Córdoba,Inbound,N/A,N/A
+cbab6b12-36d0-4f75-9168-dc796d7c20ae,CASR_Dolores,HOGAR,N/A,N/A
+c3a0a6bc-75b5-4e8e-a90f-1d7c0b1f4762,CASR_Guadalajara,Inbound,N/A,N/A
+a50715b4-cc02-4943-a409-765aeb502431,CASR_Guanajuato,Inbound,N/A,N/A
+f0d78947-6425-42ec-9fe3-0bd475b5acac,CASR_Gómez Palacio,Inbound,N/A,N/A
+5bc0e180-a133-4b3d-842e-cf6532148017,CASR_Hermosillo,Inbound,N/A,N/A
+1457c803-144d-4037-9138-19a6d52205cc,CASR_Irapuato,Inbound,N/A,N/A
+5c517d37-9c9d-4954-ab52-9be69203962e,CASR_Lagos de Moreno,HOGAR,N/A,N/A
+de9b2e01-1319-4e76-9147-880a7f88fafd,CASR_Leon,HOGAR,N/A,N/A
+d010abaf-a8ba-46f1-a78f-b78db6179534,CASR_Lázaro Cárdenas,Inbound,N/A,N/A
+0aca0361-1b2b-4f1d-bb03-ef636b402433,CASR_Manzanillo,Inbound,N/A,N/A
+89576325-6e71-46f8-8993-a854b78bacf2,CASR_Metro,Inbound,N/A,N/A
+655e6307-92ad-4ed7-9378-1f2979abbabc,CASR_Minatitlán,Inbound,N/A,N/A
+1f5b2f33-aa25-40fe-91ac-b9aa68dc5a15,CASR_Monterrey,Inbound,N/A,N/A
+c0b88694-b6b2-4f3f-9908-592e4bada93c,CASR_Morelia,Inbound,N/A,N/A
+3d750e21-c72a-4db8-8841-4b94c0ff1bbf,CASR_Morelos,Inbound,N/A,N/A
+f349cb53-7ec1-48cf-92f4-61d434580bf9,CASR_Mérida,Inbound,N/A,N/A
+bb084888-0c29-47e3-9b96-ae4066fb8e80,CASR_Ocotlán,Inbound,N/A,N/A
+2318bb06-cbb1-4a2b-8e7f-09e27063897d,CASR_Orizaba Planta,HOGAR,N/A,N/A
+69d1e921-7aed-4952-8cd7-3aea4f0e08e8,CASR_Pachuca,Inbound,N/A,N/A
+6f45ac7e-cf68-4254-943c-a0772872faff,CASR_Puebla,Inbound,N/A,N/A
+bb47e35d-6e31-430e-b101-ff2d0f379b78,CASR_Puerto Vallarta,Inbound,N/A,N/A
+59a408fc-6ae5-48fe-b2ee-09d67c6ce8f8,CASR_Querétaro,Inbound,N/A,N/A
+d9308f71-cfbe-4b31-a31f-72691ea48aa6,CASR_Saltillo,Inbound,N/A,N/A
+24bdf9e6-e18f-49f6-b1bf-123d3ca42543,CASR_San Luis,Inbound,N/A,N/A
+3cfed065-9d6a-411c-bf89-a779ca4ab960,CASR_San Miguel de A.,HOGAR,N/A,N/A
+2a4fca3b-cbc9-49cf-9673-cc4b4a1d3568,CASR_Tampico,Inbound,N/A,N/A
+113481c3-a983-495c-b4a8-affa08464b9b,CASR_Tehuacán,Inbound,N/A,N/A
+5cd674ce-62e1-48d9-ab4a-fd51f05656af,CASR_Tepic,Inbound,N/A,N/A
+894dcfc6-d1b9-4baf-b9b0-67ce094e4714,CASR_Tlaxcala,HOGAR,N/A,N/A
+abb0cea4-5606-42f6-9cfd-c74ae0237ef7,CASR_Toluca,Inbound,N/A,N/A
+57a8ff4b-9d03-4ae0-b357-d4449de1fe43,CASR_Tuxtepec,HOGAR,N/A,N/A
+6be6a0c9-0d65-420b-9cfa-115daf91a03c,CASR_Tuxtla,Inbound,N/A,N/A
+6aaffd46-a243-4b71-b8da-92410d04a09b,CASR_Uruapan,Inbound,N/A,N/A
+c54d3117-40a3-4895-ba59-ecfcc9625fdc,CASR_Veracruz,Inbound,N/A,N/A
+2c3dabf7-666e-4cab-be48-57d43a271a99,CASR_Villahermosa,HOGAR,N/A,N/A
+80757675-cea8-4990-bd8a-3fa0401bc3e8,CASR_Xalapa,Inbound,N/A,N/A
+c9e51c9a-d9dc-47e4-bb65-b774ef71338e,CASR_Zamora Planta,HOGAR,N/A,N/A
+a79ef3f9-a0a4-46d8-97fc-283bcc13df48,CASR_Zitácuaro,Inbound,N/A,N/A
+ff8dc8e2-af9f-42c5-8be4-1b3f486f0c2d,CDG,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+154e5e31-2b85-4bae-bba1-64d30b9a8ef5,CIC,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+02b902f5-6490-4888-b85a-fe1bdcbb4895,CIC_Centro,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+06287066-fd60-4437-848b-a12043518d8f,CIC_Norte,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+833ea3e9-85bd-46a3-b1aa-e259ab7a311d,CIC_Occidente,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+a0db4bbe-be89-4599-b322-fd35ef731350,CIC_Pacifico,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+92df6582-8650-420c-890b-747d95c8a73c,CIC_Sur,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+dae11eb3-ba40-45c1-9f7c-8e3921f20312,CONSUMIDORES,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+e139837b-2ae4-4e79-bf48-700e87809424,Cuentas clave,Cuentas clave,N/A,N/A
+792503fd-7f53-417d-9964-d6a077c16c4f,Cuentas_clave,Cuentas clave,N/A,N/A
+e5b03b4c-2edc-46e0-9bf0-f64cc69253b4,DEV_MB,HOGAR,dcc39834-cb05-4a97-a34f-b94eeaa0eaf2,MSIO_PROD_MarcharBlanca
+0910262a-c130-488f-90c4-f1389da9560c,DSA,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+e5cc00e0-8a1b-4ca8-a6ca-368294835e14,Encuestas,Inbound,N/A,N/A
+8ce56627-4ebb-4885-8e5e-c8884847b83f,Inbound Hogar,HOGAR,2895a146-89da-4872-9f60-d7fa7e9069ad,MSIO_PROD_Out_TipUnificada
+3d9e7082-48c4-4a55-9716-0620c846f6fd,KRA_LAB_Whatsapp,WHATSAPP,N/A,N/A
+246fa4f6-0333-4ae6-9fed-e8290dd079a7,PEDIDOS,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+ba1f7651-87de-4185-be7d-63bbd4445e99,PEPSI SI,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+0b8f7bd2-16f2-4800-9db6-e4e74ed9eb74,Pepsi Si_Centro,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+dd99a0a6-6a25-4412-9ade-868b63b9c55c,Pepsi Si_Norte,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+5c411791-beed-4d4f-9474-1f2a4a9fe132,Pepsi Si_Occidente,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+6dfb1fa7-a303-44be-9ea8-81881574b4e9,Pepsi Si_Pacifico,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+95c8ef4c-59b3-4fd0-a493-7bd9e42d0e58,Pepsi Si_Sur,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+68a5e532-0b00-42ca-b873-0caab07d1592,Plantilla HOGAR,DEVDigital,N/A,N/A
+99a97269-6127-40e7-8cc5-19b3e9e5ac8b,Prueba_Validacion,Inbound,N/A,N/A
+bc504316-d801-4fa7-b02f-e5418db36c52,Quejas y Sugerencias,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+b4b75825-a5e0-4a2a-82b5-d6a3c4f6ad59,STAFF,Inbound,e34e7986-fd1e-424a-b682-f2a62da66fd6,Inbound
+e812f901-5abe-4da4-9646-b44c3749019b,TEL1_WhatsApp_525554543342,WHATSAPP,N/A,N/A
+24782884-a7ff-4510-94cb-56681c87a988,TEL2_WhatsApp_525579756176,WHATSAPP,N/A,N/A
+99fc2bb8-0f20-4719-9e8b-c9ddc99745c3,TestKranon,HOGAR,b5bc612a-d007-42d8-a040-bce020211b82,Inbound_Hogar_Prod_TipUn
+71cb63a9-aa25-44c0-a5bd-d5be22bb7426,TestKranon_2,HOGAR,b5bc612a-d007-42d8-a040-bce020211b82,Inbound_Hogar_Prod_TipUn
+3f97116c-285d-4712-a41d-5899f3530d12,TestUSA_CallerId,HOGAR,N/A,N/A
+ce728f29-2c7a-4c42-84a2-3b4c6093e188,TestUSA_SinCallerId,HOGAR,02563f15-3a99-44b9-bf5c-cbd261215643,MSIO_DEV_Out_TipUnificada_JV_JT
+dc6055ff-5c44-4812-a303-2b7731667d4f,TEST_GEPP,HOGAR,84d91f91-7a73-4268-b93a-b81c575d1354,Gepp-TipificacionUnica_Inbound
+b4567202-ee21-4bbc-b942-1ddcc6ddaffd,Test_WSP,HOGAR,471e79b8-23bf-4971-bb05-b1ba3255de57,MSIO_PROD_Out_TipUnificada_Whatsapp
+3c171fec-46e9-4d0c-ad96-749e3ba4d013,ValidacionH_Acambaro,Inbound,N/A,N/A
+d401ec12-f1e8-46c0-9dc6-24c212b88dcd,ValidacionH_Aguascalientes,Inbound,N/A,N/A
+ab68b3b1-d88c-400f-b856-7087af9e7977,ValidacionH_Atlacomulco,HOGAR,N/A,N/A
+2c2fd256-d932-4f68-af7e-0aac6342bb13,ValidacionH_Campeche,Inbound,N/A,N/A
+581fb6f6-cc8d-4d45-9a7e-a3640872b436,ValidacionH_Cancun,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+bd9b3be8-3aea-46f0-bb0e-7be71fef1e58,ValidacionH_CD_Hidalgo,Inbound,N/A,N/A
+9661e6b8-3f79-48ea-9fde-3d4abb0931f7,ValidacionH_Celaya,Inbound,N/A,N/A
+74f58908-d610-4f6a-bc87-49a812cd666e,ValidacionH_Chapala,Inbound,N/A,N/A
+c5634b23-f606-4ada-be36-92f580436df6,ValidacionH_Coatzacoalcos,Inbound,N/A,N/A
+354c6dcb-41b1-4768-8dd4-bbce4a8e4692,ValidacionH_Colima,Inbound,N/A,N/A
+7ffdd8a3-a35d-44b6-8789-5fe841cf4926,ValidacionH_Cordoba,Inbound,N/A,N/A
+dfdf4f1a-a32e-426d-99c4-78b9f48653fd,ValidacionH_Dolores,Inbound,N/A,N/A
+278d7484-7c2c-458b-9026-9777e0549b41,ValidacionH_Gomez Palacio,Inbound,N/A,N/A
+b60ada67-84de-4ee4-af4b-855f10f32ce4,ValidacionH_Guadalajara,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+57c47b58-323f-4e12-83d0-7e0ee137480b,ValidacionH_Guanajuato,Inbound,N/A,N/A
+c94c9de7-f782-49ef-9f8d-b367a76d71d9,ValidacionH_Hermosillo,Inbound,N/A,N/A
+a134f5cf-b8ed-4410-9abe-e3cd5eb119c6,ValidacionH_Irapuato,Inbound,N/A,N/A
+ccfc9ef6-c18a-4f65-a40f-adfb3bce77e7,ValidacionH_La Piedad,Inbound,N/A,N/A
+7e1edd38-9ccd-49c0-9f0e-a4a161092435,ValidacionH_Lagos de Moreno,Inbound,N/A,N/A
+d80bf42b-fa38-45c5-bbb4-eb27fe2beee2,ValidacionH_Lazaro Cardenas,Inbound,N/A,N/A
+3a5acd6b-6fea-4d53-9c9c-2cd302780c6d,ValidacionH_Leon,HOGAR,N/A,N/A
+fa450f8f-1a55-4f80-8a71-5c551ec13fa2,ValidacionH_Manzanillo,Inbound,N/A,N/A
+7abe548e-265f-4c53-858f-53ff44a2d6eb,ValidacionH_Merida,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+49cc2b88-6a42-4180-90e1-675d3d2dec31,ValidacionH_Metro,Inbound,N/A,N/A
+19b049e5-59f5-468a-8687-3aaf57bd9e73,ValidacionH_Minatitlan,Inbound,N/A,N/A
+d19cc545-2249-4a5b-8723-b0cf5e0141c0,ValidacionH_Monterrey,Inbound,N/A,N/A
+b94b1f3d-310d-44cd-8626-a0af14ec3cab,ValidacionH_Morelia,Inbound,N/A,N/A
+b9d58264-dcc9-4d7f-8c55-0f62075cf281,ValidacionH_Morelos,Inbound,N/A,N/A
+2f9f648a-40dc-42c9-bc38-848f2b8e3d33,ValidacionH_Ocotlan,Inbound,N/A,N/A
+16a30b17-06bf-4b82-a067-a36b9923c7e2,ValidacionH_Orizaba Planta,HOGAR,N/A,N/A
+7219b189-9d88-4122-a63b-d17fabbfe77d,ValidacionH_Pachuca,Inbound,N/A,N/A
+5311007a-d888-49cf-b114-c3d076faff50,ValidacionH_PLAYA_DEL_CARMEN,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+1e65a167-87b9-44a6-9120-283fc437963a,ValidacionH_Puebla,Inbound,N/A,N/A
+141974a3-436c-4f2c-a88c-6ef073891d7d,ValidacionH_Puerto Vallarta,Inbound,N/A,N/A
+52b730ff-707d-4180-8b05-78adfc7bc999,ValidacionH_Queretaro,Inbound,N/A,N/A
+998840da-3864-46eb-9fc9-71214ab6179b,ValidacionH_Saltillo,Inbound,N/A,N/A
+cf7dd46f-78d3-450e-84d0-75c5351c41cb,ValidacionH_Salvatierra,Inbound,N/A,N/A
+18b0573c-a786-4e82-bff9-4b9b1595cd66,ValidacionH_San Luis,Inbound,N/A,N/A
+6e6f4178-b2ca-4dbf-9d04-1a80fa1c8a67,ValidacionH_San Miguel de A.,Inbound,N/A,N/A
+c536e6d2-fd3c-4b03-9e1b-fc3fb55b8c8e,ValidacionH_Tampico,Inbound,N/A,N/A
+1a6685ae-f949-45e4-b396-4508015c28e0,ValidacionH_Tehuacan,Inbound,N/A,N/A
+de9f6300-8843-4129-9107-201d9f908d73,ValidacionH_Tepic,Inbound,N/A,N/A
+d21b529c-5378-4542-a55f-fa80f21d131a,ValidacionH_Tlaxcala,Inbound,N/A,N/A
+38fa192b-d697-4beb-8bf9-4aa2f67aabfd,ValidacionH_Toluca,Inbound,N/A,N/A
+b1a0ab06-cfd9-472d-8a5c-6e0f5295b8f7,ValidacionH_Tuxtepec,Inbound,N/A,N/A
+b4f174a4-c308-4c52-bc4d-f008f962c070,ValidacionH_Tuxtla,Inbound,N/A,N/A
+ffad6a77-b999-4e95-a1a5-da7dcb229075,ValidacionH_Uruapan,Inbound,N/A,N/A
+752b72b8-b1ab-40a6-9b6f-ae04fdd08372,ValidacionH_Valle de Santiago,Inbound,N/A,N/A
+b68e326e-58ab-409f-9dbb-b81bd69627f3,ValidacionH_Veracruz,Inbound,N/A,N/A
+7e229580-6d1e-4c0a-b77f-bae6bae91f37,ValidacionH_Villahermosa,HOGAR,N/A,N/A
+a7cbd475-77ba-4dfd-81cf-2ea329826ffa,ValidacionH_Xalapa,Inbound,N/A,N/A
+030fe268-58f6-414a-8ea5-0a53bb576870,ValidacionH_Zamora Planta,HOGAR,N/A,N/A
+62927b5b-b1c2-4084-81c4-4a992eb7fc0c,ValidacionH_Zitacuaro,Inbound,N/A,N/A
+d8c08a86-f847-412f-9116-837f3ac61927,ValidacionT_Centro,Inbound,N/A,N/A
+6417283c-cf6d-49c5-905b-c767be5c4f05,ValidacionT_Metro,Inbound,N/A,N/A
+cd3ce806-64f1-48bb-b313-279af64e3cfc,ValidacionT_Norte,Inbound,N/A,N/A
+b537183c-b083-4656-a413-cefad00bb2cd,ValidacionT_Occidente,Inbound,N/A,N/A
+23c7d92d-6f40-4b19-a358-485af405edf4,ValidacionT_Pacifico,Inbound,N/A,N/A
+6c2ed949-61d4-4410-ba17-cef31d2f3535,ValidacionT_Sur,Inbound,N/A,N/A
+88db4a92-7b55-4522-a6a2-b1ce6ba11bd1,Validacion_Cocula,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+ae31dc12-80cc-4640-95aa-c80645d44bc5,Validacion_Jalostotitlan,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+446af507-65b8-4801-84b7-f552544dac49,Validacion_Sahuayo,Inbound,N/A,N/A
+0f272ee9-da3b-4337-951e-099e021dcd66,Validacion_Tepatitlan,Inbound,0afbcc75-2d47-4b3b-964d-9ed99b99aeec,CAS_Envio_Whatsapp_Seleccion_Template
+2170a3c3-7ab0-4bd7-aa58-a4cf0a91d026,Validacion_Tradicional,Inbound,N/A,N/A
