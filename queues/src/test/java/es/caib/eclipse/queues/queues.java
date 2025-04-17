@@ -16,9 +16,9 @@ import java.util.Scanner;
 
 public class queues {
 
-    private static final String BEARER_TOKEN = "q59a4nj0-1Kl_6d5CCKGy5ZDi2uVdacRApr7C90JEFKbgMqNMilDYBY2FXWPEN6StPrShqs6c0CTib2_l41O_g";
-    private static final String QUEUES_URL = "https://api.mypurecloud.com/api/v2/routing/queues";
-    private static final String SCRIPT_URL = "https://api.mypurecloud.com/api/v2/scripts/";
+    private static final String BEARER_TOKEN = "token";
+    private static final String QUEUES_URL = "https://api/queues";
+    private static final String SCRIPT_URL = "https://api/scripts/";
     private static final String CSV_FILE = "colas_genesys.csv";  // Nombre del archivo CSV
 
     public static void main(String[] args) {
